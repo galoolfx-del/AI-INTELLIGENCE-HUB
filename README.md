@@ -13,4 +13,4 @@ npm install @supabase/ssr @supabase/supabase-js
 npm install framer-motion lucide-react date-framer
 
 
-cabdiraxman 
+cabdiraxman frdc
